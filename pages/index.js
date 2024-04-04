@@ -6,16 +6,16 @@ export default function Home() {
       <Head>
         <meta
           name="twitter:title"
-          content="Moopa - Free Anime and Manga Streaming"
+          content="OniTV"
         />
         <meta
           name="twitter:description"
-          content="Discover your new favorite anime or manga title! Moopa offers a vast library of high-quality content, accessible on multiple devices and without any interruptions. Start using Moopa today!"
+          content="Discover your new favorite anime or manga title! OniTV offers a library of high-quality content, accessible on any device and without any interruptions."
         />
-        <meta name="twitter:image" content="/preview.png" />
+        <meta name="twitter:image" content="" />
         <meta
           name="description"
-          content="Discover your new favorite anime or manga title! Moopa offers a vast library of high-quality content, accessible on multiple devices and without any interruptions. Start using Moopa today!"
+          content="Enjoy watching some ad free anime."
         />
       </Head>
     </>

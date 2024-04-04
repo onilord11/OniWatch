@@ -299,7 +299,7 @@ export default function Home({ detail, populars, upComing }) {
   return (
     <Fragment>
       <Head>
-        <title>Moopa</title>
+        <title>OniTV</title>
         <meta charSet="UTF-8"></meta>
         <link rel="icon" href="/svg/c.svg" />
         <link rel="canonical" href="https://moopa.live/en/" />
